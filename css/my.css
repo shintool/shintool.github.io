@@ -43,6 +43,22 @@ body {
     /* box-shadow: 2px 2px darkred; */
 }
 
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-item {
+    height: 600px;
+    width: 1280px;
+}
+
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+}
+
 .preloader {
     /* Body Overlay */
     position: fixed;

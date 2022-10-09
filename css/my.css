@@ -84,6 +84,11 @@ body {
     z-index: 99999;
 }
 
+.progress-bar {
+    background-color: pink;
+    color: black;
+}
+
 .preloader .loader_34 {
     display: table-cell;
     vertical-align: middle;
